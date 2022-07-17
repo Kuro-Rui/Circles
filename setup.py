@@ -8,7 +8,7 @@ setup(
     author="Kuro-Rui",
     author_email="louisdominic80@gmail.com",
     description="An async osu! API v1 wrapper.",
-    packages="circles",
+    packages=["osu", "osu.errors", "osu.models"],
     setup_requires=["aiohttp"],
     keywords=["osu", "osu!", "osu!api"],
 )
