@@ -1,2 +1,2 @@
 # Circles
-An async osu! API v1 wrapper.
+An async osu! API v1 wrapper. (WIP)
